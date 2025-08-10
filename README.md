@@ -23,9 +23,9 @@ Para manter a organização, os códigos de cada seção do curso estão em past
 
 ## 📚 Conteúdo do Curso e Progresso
 
-Aqui está a lista de tópicos abordados no curso. Usarei esta checklist (✔) para acompanhar meu progresso. 
+Aqui está a lista de tópicos abordados no curso. Usarei esta checklist para acompanhar meu progresso. 
 
-- [ ] **Parte 1 - Pré-processamento de Dados**
+- [✔] **Parte 1 - Pré-processamento de Dados**
 - [ ] **Parte 2 - Regressão**
   - `Simple Linear Regression`
   - `Multiple Linear Regression`
