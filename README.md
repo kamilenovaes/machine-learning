@@ -26,15 +26,13 @@ Para manter a organização, os códigos de cada seção do curso estão em past
 Aqui está a lista de tópicos abordados no curso. Usarei esta checklist para acompanhar meu progresso. 
 
 - [✔] **Parte 1 - Pré-processamento de Dados**
-  - [✔] `Python`
-  - [ ] `R`
-- [ ] **Parte 2 - Regressão**
-  - `Simple Linear Regression`
-  - `Multiple Linear Regression`
-  - `Polynomial Regression`
-  - `Support Vector Regression (SVR)`
-  - `Decision Tree Regression`
-  - `Random Forest Regression`
+- [✔] **Parte 2 - Regressão**
+  - [✔] `Simple Linear Regression`
+  - [ ] `Multiple Linear Regression`
+  - [ ] `Polynomial Regression`
+  - [ ] `Support Vector Regression (SVR)`
+  - [ ] `Decision Tree Regression`
+  - [ ] `Random Forest Regression`
 - [ ] **Parte 3 - Classificação**
   - `Logistic Regression`
   - `K-Nearest Neighbors (K-NN)`
