@@ -27,12 +27,12 @@ Aqui está a lista de tópicos abordados no curso. Usarei esta checklist para ac
 
 - [✔] **Parte 1 - Pré-processamento de Dados**
 - [✔] **Parte 2 - Regressão**
-  - [✔] `Simple Linear Regression`
-  - [ ] `Multiple Linear Regression`
-  - [ ] `Polynomial Regression`
-  - [ ] `Support Vector Regression (SVR)`
-  - [ ] `Decision Tree Regression`
-  - [ ] `Random Forest Regression`
+  - [✔] `Simple Linear Regression`: [**Conceitos**](2%20-%20Regression/concepts/Conceitos_Regressao_Linear_Simples.md) | [**Python**](2%20-%20Regression/python/Simple%20Linear%20Regression/simple_linear_regression.ipynb)
+  - [ ] `Multiple Linear Regression`: [**Conceitos**](2%20-%20Regression/concepts/Conceitos_Regressao_Linear_Multipla.md)
+  - [ ] `Polynomial Regression`: [**Conceitos**](2%20-%20Regression/concepts/Conceitos_Regressao_Polinomial.md)
+  - [ ] `Support Vector Regression (SVR)`: [**Conceitos**](2%20-%20Regression/concepts/Conceitos_SVR.md)
+  - [ ] `Decision Tree Regression`: [**Conceitos**](2%20-%20Regression/concepts/Conceitos_Arvore_Decisao_Regressao.md)
+  - [ ] `Random Forest Regression`: [**Conceitos**](2%20-%20Regression/concepts/Conceitos_Random_Forest_Regressao.md)
 - [ ] **Parte 3 - Classificação**
   - `Logistic Regression`
   - `K-Nearest Neighbors (K-NN)`
