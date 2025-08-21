@@ -16,8 +16,6 @@ A SVR tem um hiperparâmetro crucial chamado **epsilon (ε)**, que define a larg
 - O modelo só penaliza os erros para os pontos que caem **fora** dessa margem.
 - Isso torna a SVR muito robusta a **outliers**, pois se um outlier estiver dentro da margem, ele será ignorado.
 
-![Imagem de SVR](https://i.imgur.com/nJ6VbYg.png)
-*A linha sólida é a previsão. As linhas pontilhadas são a margem (epsilon). O modelo só se preocupa com os pontos que estão fora das linhas pontilhadas.*
 
 ## ✅ Quando usar?
 

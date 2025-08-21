@@ -21,8 +21,6 @@ O maior desafio da Regressão Polinomial é escolher o grau certo.
 - **Grau baixo (ex: 1):** O modelo pode ser simples demais e não capturar a tendência dos dados (**underfitting**).
 - **Grau muito alto:** O modelo pode se ajustar perfeitamente aos dados de treino, mas falhar em generalizar para novos dados, pois ele "decorou" o ruído em vez de aprender a tendência (**overfitting**).
 
-![Imagem de Overfitting](https://i.imgur.com/38b9Aop.png)
-*A linha verde (grau alto) se ajusta perfeitamente aos pontos de treino, mas provavelmente fará previsões ruins para novos pontos.*
 
 ## ✅ Quando usar?
 

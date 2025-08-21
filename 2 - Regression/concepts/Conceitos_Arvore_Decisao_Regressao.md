@@ -16,8 +16,6 @@ A previsão final é a **média de todos os valores de treino** que terminaram n
 - Ele repete esse processo de forma recursiva para cada novo subconjunto, criando os galhos e nós da árvore.
 - O processo para quando um critério de parada é atingido (ex: profundidade máxima da árvore, número mínimo de amostras em uma folha).
 
-![Imagem de Árvore de Decisão para Regressão](https://i.imgur.com/kO3bT1U.png)
-*O espaço é dividido em regiões. A previsão para qualquer ponto dentro de uma região é a média dos valores de treino naquela região.*
 
 ## ✅ Vantagens e Desvantagens
 

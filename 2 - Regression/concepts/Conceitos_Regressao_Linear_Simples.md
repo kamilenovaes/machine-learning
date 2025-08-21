@@ -20,8 +20,6 @@ Onde:
 
 O treinamento do modelo consiste em encontrar os melhores valores para `b₀` e `b₁` que minimizem a distância entre a linha de regressão e os pontos de dados reais. O método mais comum para fazer isso é o **Método dos Mínimos Quadrados** (Ordinary Least Squares - OLS), que busca minimizar a soma dos erros ao quadrado.
 
-![Imagem de Regressão Linear](https://i.imgur.com/yUgk3D8.png)
-*Nesta imagem, a linha azul é o nosso modelo, e as linhas vermelhas representam o erro (a distância) entre a previsão e o valor real para cada ponto.*
 
 ## ✅ Quando usar?
 
